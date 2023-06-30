@@ -1,0 +1,6 @@
+@import url(./left.css);
+@import url(./right.css);
+@import url(./education.css);
+body{
+    display: flex;
+}

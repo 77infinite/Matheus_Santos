@@ -1,0 +1,62 @@
+.esquerda{
+    width: 400px;
+    height:max-content;
+    background-color: #5f9ea0;
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: auto;
+    position: fixed;
+    height: 100%;
+    text-align: center;
+}
+
+.math{
+    border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    width: 200px;
+    box-shadow: 10px -2px 97px -6px rgba(0,0,0,0.53);
+    -webkit-box-shadow: 10px -2px 97px -6px rgba(0,0,0,0.53);
+    -moz-box-shadow: 10px -2px 97px -6px rgba(0,0,0,0.53);
+    margin-top: 20px;
+}
+.name{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.918);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cargo{
+    color: rgba(255, 255, 255, 0.918);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navegacao{
+    display: flexbox;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img--nav{
+    width: 100px;
+    padding: 10px;
+}
+
+.link2{
+    color: aliceblue;
+    font-size: 50px;
+    background-color: #5f9ea0;
+    border: none;
+    text-align: center;
+    padding: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link2:hover{
+    cursor: pointer;
+}
+

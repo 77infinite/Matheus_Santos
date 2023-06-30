@@ -1,0 +1,46 @@
+.principal{
+    margin-left: -10px;
+    margin-top:-10px;
+    margin-bottom: -10px;
+    position:static;
+    width: 100%;
+    height: max-content;
+    display: flexbox;
+    
+
+}
+
+.tittle-edu{
+    margin-top: 41px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.img-edu{
+    padding: 0;
+    width: 180px;
+}
+.bradesco{
+    width: auto;
+    height: max-content;
+    display:flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.img-edu1{
+    width: 200px;
+    height: 150px;
+}
+
+.certificados{
+    margin-top: -25px;
+}
+.certificados1{
+    margin-top: 30px;
+}

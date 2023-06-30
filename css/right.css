@@ -1,0 +1,24 @@
+.direita{
+    margin-left: 400px;
+    
+}
+.tittle{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 0, 0);
+}
+
+.bio{
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 20px;
+}
